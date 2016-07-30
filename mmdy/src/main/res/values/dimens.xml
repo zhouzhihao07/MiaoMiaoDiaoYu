@@ -1,0 +1,10 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="tabbottom_text_font_size">5sp</dimen>
+    <dimen name="dotPadding">10dp</dimen>
+    <dimen name="marginleftText">10dp</dimen>
+    <dimen name="xhTextSize">20sp</dimen>
+    <dimen name="VpInTextSize">7sp</dimen>
+</resources>
